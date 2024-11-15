@@ -1,0 +1,4 @@
+git remote set-url origin https://github.com/Palde123/devops.git
+git remote add origin https://github.com/yourusername/simple_project.git
+git branch -M main
+git push -u origin main
